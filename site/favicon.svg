@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#2a3f5f"/>
+  <!-- the chain, northwest to southeast: Kauaʻi, Oʻahu, Molokaʻi and Lānaʻi, Maui, Hawaiʻi Island — green on the blue -->
+  <path d="M4.4 6.2 Q7.4 5.6 8.3 7.2 Q8.6 8.6 7.3 9.3 Q5.6 9.8 4.5 9.0 Q3.4 7.7 4.4 6.2 Z" fill="#4f8a4a"/>
+  <path d="M9.9 10.8 Q11.6 9.6 13.6 10.6 Q15.4 11.3 15.1 12.7 Q14.3 13.9 12.5 13.8 Q10.9 13.6 10.0 12.6 Q9.3 11.7 9.9 10.8 Z" fill="#4f8a4a"/>
+  <path d="M15.9 13.9 Q18.4 13.6 19.6 14.2 Q19.3 15.1 17.4 15.2 Q15.8 15.1 15.9 13.9 Z" fill="#4f8a4a"/>
+  <path d="M17.0 16.6 Q18.2 16.0 18.9 16.8 Q18.8 17.9 17.6 17.9 Q16.6 17.5 17.0 16.6 Z" fill="#4f8a4a"/>
+  <path d="M19.8 16.1 Q21.6 15.0 23.2 15.8 Q24.6 16.4 24.3 17.8 Q23.2 19.0 21.5 18.7 Q20.0 18.1 19.8 16.1 Z" fill="#4f8a4a"/>
+  <path d="M21.6 20.4 Q24.6 18.8 27.4 20.6 Q29.6 22.6 28.9 25.6 Q27.6 28.3 24.6 28.4 Q21.6 27.9 20.7 25.0 Q20.2 22.2 21.6 20.4 Z" fill="#4f8a4a"/>
+  <circle cx="25.1" cy="24.1" r="1.1" fill="#e8ecef"/>
+</svg>
