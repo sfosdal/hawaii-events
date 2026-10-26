@@ -1,0 +1,662 @@
+{
+ "events": [
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Hoʻolauleʻa — Afook-Chinen Civic Auditorium",
+   "date": "2026-04-05",
+   "time": "09:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Merrie Monarch Invitational Hawaiian Arts Fair",
+   "date": "2026-04-08",
+   "time": "09:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Hōʻike Performances — Edith Kanakaʻole Stadium",
+   "date": "2026-04-08",
+   "time": "18:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Merrie Monarch Invitational Hawaiian Arts Fair",
+   "date": "2026-04-09",
+   "time": "09:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Miss Aloha Hula — Edith Kanakaʻole Stadium",
+   "date": "2026-04-09",
+   "time": "18:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Merrie Monarch Invitational Hawaiian Arts Fair",
+   "date": "2026-04-10",
+   "time": "09:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Group Hula Kahiko — Edith Kanakaʻole Stadium",
+   "date": "2026-04-10",
+   "time": "18:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Merrie Monarch Royal Parade",
+   "date": "2026-04-11",
+   "time": "10:30",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Merrie Monarch Festival",
+   "title": "Group Hula ʻAuana & Awards — Edith Kanakaʻole Stadium",
+   "date": "2026-04-11",
+   "time": "18:00",
+   "url": "https://www.merriemonarch.com/2026-merrie_monarch_festival/",
+   "type": "community"
+  },
+  {
+   "venue": "Hui Noʻeau",
+   "title": "Mālama Wao Akua 2026",
+   "date": "2026-09-11",
+   "time": "17:00",
+   "url": "https://www.huinoeau.com/exhibitions/2026/9/malama-wao-akua",
+   "type": "arts"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Neave Trio",
+   "date": "2026-09-23",
+   "time": "19:00",
+   "url": "https://www.hawaiiconcertsociety.org/2026-27-season",
+   "type": "concert"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Mackenzie Melemed, Piano",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "url": "https://www.hawaiiconcertsociety.org/2026-27-season",
+   "type": "concert"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Hula Lessons",
+   "date": "2026-10-01",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/hula-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Keiki Hula Lessons",
+   "date": "2026-10-01",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/keiki-hula-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Lei Making Lessons",
+   "date": "2026-10-02",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/lei-making-lesson-july",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Steel guitar PERFORMANCE",
+   "date": "2026-10-02",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/steel-gutiar-performance-57bxl",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "HŌLEI Music Performance",
+   "date": "2026-10-02",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/holei-trio-july",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Hula Kahiko Performance",
+   "date": "2026-10-03",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/hula-kahiko-july",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-10-04",
+   "time": "07:30",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-10-04",
+   "time": "09:00",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "ʻUkulele Lessons",
+   "date": "2026-10-05",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/ukulele-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Kawika Trask Trio Performance",
+   "date": "2026-10-06",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/the-kawika-trask-trio-july",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Under the Sea with the Exploration Vessel Nautilus",
+   "date": "2026-10-07",
+   "time": "02:45",
+   "url": "https://www.bishopmuseum.org/calendar/under-the-sea-with-the-exploration-vessel-nautilus/",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "PUʻUHONUA Trio Performance",
+   "date": "2026-10-07",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/puuhonua-performances-july",
+   "type": "community"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Tomáš Kubínek - Miracle Man",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "url": "https://hilo.hawaii.edu/news/view/17469",
+   "type": "arts"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Museum After Hours",
+   "date": "2026-10-09",
+   "time": "07:00",
+   "url": "https://www.bishopmuseum.org/calendar/museum-after-hours-october-9-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Under the Sea with the Exploration Vessel Nautilus",
+   "date": "2026-10-09",
+   "time": "07:45",
+   "url": "https://www.bishopmuseum.org/calendar/under-the-sea-with-the-exploration-vessel-nautilus-october-9-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Kanikapila ma Kaiwiʻula",
+   "date": "2026-10-10",
+   "time": "00:00",
+   "url": "https://www.bishopmuseum.org/calendar/kanikapila-ma-kaiwi%ca%bbula/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Shells, Wings & Wonder",
+   "date": "2026-10-10",
+   "time": "00:00",
+   "url": "https://www.bishopmuseum.org/calendar/shells-wings-wonder-october-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-10-11",
+   "time": "07:30",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-10-11",
+   "time": "09:00",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Augustana",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/augustana-blue-note-hawaii-tickets/14782563",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Augustana",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/augustana-blue-note-hawaii-tickets/14782553",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Jake Shimabukuro With Shawn Conley",
+   "date": "2026-10-13",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/jake-shimabukuro-with-shawn-conley-blue-note-hawaii-tickets/14090694",
+   "type": "concert"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Iestyn Davies, Countertenor & Oliver Wass, Harp",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "url": "https://www.hawaiiconcertsociety.org/2026-27-season",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Jake Shimabukuro Solo",
+   "date": "2026-10-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/jake-shimabukuro-solo-blue-note-hawaii-tickets/14090714",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Jake Shimabukuro Solo",
+   "date": "2026-10-14",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/jake-shimabukuro-solo-blue-note-hawaii-tickets/14090724",
+   "type": "concert"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Fall dining Gift With Purchase",
+   "date": "2026-10-15",
+   "time": "11:00",
+   "url": "https://www.royalhawaiiancenter.com/events/fall-gift-with-purchase-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Motet Plays Jamiroquai",
+   "date": "2026-10-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/the-motet-plays-jamiroquai-blue-note-hawaii-tickets/14261144",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Motet Plays Jamiroquai",
+   "date": "2026-10-15",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/the-motet-plays-jamiroquai-blue-note-hawaii-tickets/14261154",
+   "type": "concert"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "The Stars Tonight",
+   "date": "2026-10-16",
+   "time": "09:00",
+   "url": "https://www.bishopmuseum.org/calendar/the-stars-tonight-2026-winter/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Josh Tatofi",
+   "date": "2026-10-16",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/josh-tatofi-blue-note-hawaii-tickets/14001404",
+   "type": "concert"
+  },
+  {
+   "venue": "Blaisdell Arena",
+   "title": "WWE Hawaii Live Tour 2026",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-16-2026/event/0A0064F1C204B3E6",
+   "type": "sports"
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "JoAnn Conducts Beethoven's Triple",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/joann-conducts-beethovens-triple-honolulu-hawaii-10-16-2026/event/0A00650606F06CA7",
+   "type": "arts"
+  },
+  {
+   "venue": "Blaisdell Exhibition Hall",
+   "title": "OnoFest & Fall Expo - SATURDAY",
+   "date": "2026-10-17",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/onofest-fall-expo-saturday-honolulu-hawaii-10-17-2026/event/0A0065250C41BC4F",
+   "type": "community"
+  },
+  {
+   "venue": "Ching Athletics Complex",
+   "title": "Hawaii Rainbow Warriors Football vs. New Mexico Lobos Football",
+   "date": "2026-10-17",
+   "time": "16:30:00",
+   "url": "https://hawaiiathletics.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Josh Tatofi",
+   "date": "2026-10-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/josh-tatofi-blue-note-hawaii-tickets/14001414",
+   "type": "concert"
+  },
+  {
+   "venue": "Blaisdell Arena",
+   "title": "WWE Hawaii Live Tour 2026",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-17-2026/event/0A0064F1C209B3ED",
+   "type": "sports"
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "Lea Salonga in Concert",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lea-salonga-in-concert-honolulu-hawaii-10-17-2026/event/0A00650608296FED",
+   "type": "arts"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "Crystal Method (18+)",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://hbsocialclub.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blaisdell Exhibition Hall",
+   "title": "OnoFest & Fall Expo - SUNDAY",
+   "date": "2026-10-18",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/onofest-fall-expo-sunday-honolulu-hawaii-10-18-2026/event/0A0065250C4ABCB4",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Witch Perfect",
+   "date": "2026-10-18",
+   "time": "12:30:00",
+   "url": "https://www.ticketweb.com/event/witch-perfect-blue-note-hawaii-tickets/14255414",
+   "type": "concert"
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "Lea Salonga in Concert",
+   "date": "2026-10-18",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/lea-salonga-in-concert-honolulu-hawaii-10-18-2026/event/0A006506082D6FF4",
+   "type": "arts"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Rooftop Stargazing",
+   "date": "2026-10-18",
+   "time": "18:30",
+   "url": "https://www.royalhawaiiancenter.com/events/rooftop-stargazing-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Frankie Moreno Trio",
+   "date": "2026-10-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/the-frankie-moreno-trio-blue-note-hawaii-tickets/14985323",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Local Comedy Showcase",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/local-comedy-showcase-blue-note-hawaii-tickets/14301334",
+   "type": "concert"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Lauhala Weaving Lessons",
+   "date": "2026-10-21",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/lauhala-weaving-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Red Nova",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/red-nova-blue-note-hawaii-tickets/15033483",
+   "type": "concert"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Maʻa: Establishing Our Pilina to Kanaloa",
+   "date": "2026-10-22",
+   "time": "08:00",
+   "url": "https://www.bishopmuseum.org/calendar/ma%ca%bba-establishing-our-pilina-to-kanaloa/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Justin Kawika Young",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/justin-kawika-young-blue-note-hawaii-tickets/14860313",
+   "type": "concert"
+  },
+  {
+   "venue": "ʻĪao Theater",
+   "title": "Witch Perfect",
+   "date": "2026-10-23",
+   "time": "",
+   "url": "https://mauionstage.thundertix.com/events/267770",
+   "type": "arts"
+  },
+  {
+   "venue": "Waikiki Shell",
+   "title": "Steel Pulse - Reggae Against Racism Tour",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/steel-pulse-reggae-against-racism-tour-honolulu-hawaii-10-23-2026/event/0A0064EA50A01A7A",
+   "type": "concert"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Street Fighter",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://www.honokaapeople.com/event-details/street-fighter-2026-10-23-19-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Womens Volleyball vs. UNLV Rebels Womens Volleyball",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MW+"
+    ]
+   }
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Rick Springfield",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/rick-springfield-blue-note-hawaii-tickets/14335944",
+   "type": "concert"
+  },
+  {
+   "venue": "Pacific Whale Foundation",
+   "title": "Fins & Frights Night at Maui Ocean Center",
+   "date": "2026-10-24",
+   "time": "",
+   "url": "https://pacificwhale.org/event/fins-frights-night-at-maui-ocean-center/",
+   "type": "community"
+  },
+  {
+   "venue": "ʻĪao Theater",
+   "title": "Broadway on Maui",
+   "date": "2026-10-24",
+   "time": "",
+   "url": "https://mauionstage.thundertix.com/events/271418",
+   "type": "arts"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Behind the Scenes Native Garden Tour",
+   "date": "2026-10-24",
+   "time": "00:00",
+   "url": "https://www.bishopmuseum.org/calendar/behind-the-scenes-native-garden-tour/",
+   "type": "community"
+  },
+  {
+   "venue": "Kahilu Theatre",
+   "title": "Dark Side of the Beach",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "url": "https://kahilu.org/events/darkside-of-the-beach/",
+   "type": "arts"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Street Fighter",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "url": "https://www.honokaapeople.com/event-details/street-fighter-2026-10-24-19-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Womens Volleyball vs. UNLV Rebels Womens Volleyball",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Rick Springfield",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/rick-springfield-blue-note-hawaii-tickets/14294504",
+   "type": "concert"
+  },
+  {
+   "venue": "The Republik",
+   "title": "Grief Sucks: A One Man Show By KevOnStage",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.eventim.us/event/KEVONSTAGE/700059",
+   "type": "arts"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "CENTER-WIDE TRICK-OR-TREATING",
+   "date": "2026-10-25",
+   "time": "12:00",
+   "url": "https://www.royalhawaiiancenter.com/events/center-wide-trick-or-treating-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Exhibition on Screen: James McNeill Whistler",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/exhibition-on-screen-james-mcneill-whistler-lzx3",
+   "type": "arts"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Halloween Keiki Costume Contest",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "url": "https://www.royalhawaiiancenter.com/events/halloween-keiki-costume-contest-waikiki-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Street Fighter",
+   "date": "2026-10-25",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/street-fighter-2026-10-25-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Mens Basketball vs. Hawaii Pacific Sharks Mens Basketball",
+   "date": "2026-10-25",
+   "time": "17:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "ROGUES",
+   "date": "2026-10-25",
+   "time": "19:00",
+   "url": "https://hbsocialclub.com/event/rogues/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Rick Springfield",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/rick-springfield-blue-note-hawaii-tickets/14294514",
+   "type": "concert"
+  },
+  {
+   "venue": "Waimea Valley",
+   "title": "October Moonwalk",
+   "date": "2026-10-25",
+   "time": "20:00",
+   "url": "https://www.waimeavalley.net/events/moonwalk-oct",
+   "type": "community"
+  }
+ ]
+}
