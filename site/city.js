@@ -399,7 +399,7 @@
     },
     // --- Hawaiʻi Island — Kona & Kohala ---
     'KBXtreme': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.644,-155.988],
       capacity: 3300,
       type: 'concert',
@@ -409,7 +409,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.kbxtreme.com&sz=128',
     },
     'Kona Coffee Cultural Festival': {
-      festival: true,      island: 'kona',
+      festival: true,      island: 'bigisland',
       geo: [19.63691,-155.99259],
       capacity: 5000,
       type: 'community',
@@ -419,7 +419,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=konacoffeefest.com&sz=128',
     },
     'Aloha Theatre': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.53309,-155.92728],
       capacity: 350,
       type: 'arts',
@@ -429,7 +429,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.apachawaii.org&sz=128',
     },
     'Puʻuhonua o Hōnaunau National Historical Park': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.42239,-155.90943],
       capacity: 300,
       type: 'community',
@@ -439,7 +439,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
     },
     'Kaloko-Honokōhau National Historical Park': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.68182,-156.02709],
       capacity: 200,
       type: 'community',
@@ -449,7 +449,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
     },
     'Waikoloa Bowl at Queens’ Gardens': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.9135,-155.8812],
       capacity: 3000,
       type: 'concert',
@@ -459,7 +459,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.waikoloabeachresort.com&sz=128',
     },
     'Hilton Waikoloa Village': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.92459,-155.88893],
       capacity: 2000,
       type: 'concert',
@@ -469,7 +469,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.hilton.com&sz=128',
     },
     'Queens’ MarketPlace': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.91418,-155.88011],
       capacity: 1000,
       type: 'community',
@@ -479,7 +479,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.queensmarketplace.com&sz=128',
     },
     'Kings’ Shops': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [19.9172,-155.8818],
       capacity: 800,
       type: 'community',
@@ -489,7 +489,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=kingsshops.com&sz=128',
     },
     'Kahilu Theatre': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [20.01912,-155.66737],
       capacity: 490,
       type: 'arts',
@@ -499,7 +499,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=kahilu.org&sz=128',
     },
     'Honokaʻa People’s Theatre': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [20.0787,-155.4665],
       capacity: 525,
       type: 'concert',
@@ -509,7 +509,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.honokaapeople.com&sz=128',
     },
     'Puʻukoholā Heiau National Historic Site': {
-      island: 'kona',
+      island: 'bigisland',
       geo: [20.02802,-155.82112],
       capacity: 300,
       type: 'community',
@@ -520,7 +520,7 @@
     },
     // --- Hawaiʻi Island — Hilo, Volcano & Hāmākua ---
     'Palace Theater': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.72458,-155.08651],
       capacity: 500,
       type: 'arts',
@@ -530,7 +530,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=hilopalace.com&sz=128',
     },
     'UH Hilo Performing Arts Center': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.7031,-155.0846],
       capacity: 600,
       type: 'arts',
@@ -540,7 +540,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=hilo.hawaii.edu&sz=128',
     },
     'Afook-Chinen Civic Auditorium': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.71811,-155.06953],
       capacity: 3500,
       type: 'sports',
@@ -550,7 +550,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.hawaiicounty.gov&sz=128',
     },
     'Merrie Monarch Festival': {
-      festival: true,      island: 'hilo',
+      festival: true,      island: 'bigisland',
       geo: [19.7172,-155.0668],
       capacity: 4500,
       type: 'community',
@@ -560,7 +560,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.merriemonarch.com&sz=128',
     },
     'Crown Room at the Grand Naniloa': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.72957,-155.06493],
       capacity: 400,
       type: 'concert',
@@ -570,7 +570,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=grandnaniloahilo.com&sz=128',
     },
     'ʻImiloa Astronomy Center': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.70082,-155.08895],
       capacity: 300,
       type: 'community',
@@ -580,7 +580,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=imiloahawaii.org&sz=128',
     },
     'Vulcan Gym & Fields': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.7005,-155.0825],
       capacity: 2000,
       type: 'sports',
@@ -590,7 +590,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=hiloathletics.com&sz=128',
     },
     'Hawaiʻi Volcanoes National Park': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.4295,-155.2573],
       capacity: 500,
       type: 'community',
@@ -600,7 +600,7 @@
       icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
     },
     'Volcano Art Center': {
-      island: 'hilo',
+      island: 'bigisland',
       geo: [19.44417,-155.20725],
       capacity: 150,
       type: 'arts',
@@ -701,8 +701,7 @@
     sisters: [
       { key: 'honolulu', label: 'Oʻahu', url: 'https://honolulu.here.events/events.json' },
       { key: 'maui', label: 'Maui', url: 'https://maui.here.events/events.json' },
-      { key: 'kona', label: 'Kona & Kohala', url: 'https://kona.here.events/events.json' },
-      { key: 'hilo', label: 'Hilo & Volcano', url: 'https://hilo.here.events/events.json' },
+      { key: 'bigisland', label: 'Hawaiʻi Island', url: 'https://bigisland.here.events/events.json' }, // Kona and Hilo were separate sites for one day (2026-10-25); bigisland.here.events merged them
     ],
     tz: 'Pacific/Honolulu', tzName: 'Hawaii', // the city's time zone (no daylight time): the ICS feed's TZID, the game clocks, the poster's footer
     state: "Hawaii", stateOutline: 'M3.7 6.3L3.3 6.5L3.1 6.4L2.7 6.3L2.6 6.2L2.2 6.0L2.0 5.8L2.3 5.4L2.8 5.0L3.8 5.0L3.9 5.3L4.0 5.5L3.8 5.7L3.8 6.1L3.7 6.3ZM10.0 8.3L10.1 8.3L10.3 8.3L10.4 8.6L10.6 8.8L10.6 8.9L10.4 9.1L10.0 9.1L9.8 9.0L9.6 8.8L9.3 8.9L9.3 8.7L9.3 8.6L9.1 8.7L9.3 8.9L8.9 8.9L8.7 8.9L8.6 8.6L8.2 8.2L8.2 8.0L8.1 7.7L8.7 7.7L9.1 7.3L9.3 7.2L9.8 7.9L9.8 8.1L9.9 8.2L10.0 8.3ZM12.3 9.3L13.2 9.4L13.4 9.4L13.5 9.5L14.2 9.6L14.3 9.6L14.2 9.8L13.8 10.0L13.1 9.8L12.0 9.8L12.1 9.6L12.2 9.5L12.2 9.3L12.3 9.3ZM15.2 10.5L15.4 10.6L15.8 10.5L16.1 10.5L16.6 10.7L16.8 10.9L17.1 11.1L17.2 11.3L17.1 11.5L16.8 11.8L16.3 11.8L16.0 12.0L15.6 11.9L15.4 11.9L15.4 11.5L15.3 11.1L15.0 11.2L14.7 11.0L14.4 10.7L14.4 10.5L14.6 10.1L14.9 10.1L15.1 10.3L15.2 10.5ZM18.9 18.8L18.7 19.0L18.5 19.0L17.7 18.5L17.6 18.3L17.6 17.2L17.3 16.3L17.0 15.6L17.2 15.3L17.6 15.0L17.9 14.5L17.6 13.8L17.7 13.4L17.9 13.4L18.7 13.8L20.4 14.6L20.9 15.1L20.9 15.6L21.3 15.7L21.4 16.1L21.9 16.4L22.0 16.6L21.8 16.9L21.0 17.5L20.0 17.7L19.1 18.4L18.9 18.8Z', // the masthead's small state, linking to here.events (scripts/state-outline.mjs, Natural Earth 1:50m)
