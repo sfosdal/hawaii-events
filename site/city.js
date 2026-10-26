@@ -652,10 +652,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Hawaii',  // the programs' names on Ticketmaster and ESPN // the board drops it from the programs' names ("Hawaii Rainbow Warriors Football" → Rainbow Warriors Football)
-    presetDefault: 'Every room on every island — Oʻahu, Maui and Hawaiʻi Island — every team and type',
-    presetNeighborhood: 'Every room the island sites list — the same as the usual view here',
+    presetDefault: 'Every venue on every island — Oʻahu, Maui and Hawaiʻi Island — every team and type',
+    presetNeighborhood: 'Every venue the island sites list — the same as the usual view here',
     presetBig: 'Only the places that hold 2,000 or more — the Blaisdell, the Shell, the university grounds, the MACC, the Lahaina Civic Center, the Waikoloa Bowl, the Civic in Hilo',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing every room on every island.', big: 'Showing the big rooms only — the arenas, the concert halls and the grounds.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing every venue on every island.', big: 'Showing the big venues only — the arenas, the concert halls and the grounds.' },
   };
 
   // City-wide feeds (scripts/feeds.mjs): none — the island sites read every room
