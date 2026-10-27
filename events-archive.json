@@ -721,6 +721,46 @@
    "time": "20:00",
    "url": "https://www.waimeavalley.net/events/moonwalk-oct",
    "type": "community"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Hosmer Hike",
+   "date": "2026-10-26",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=145521",
+   "type": "community"
+  },
+  {
+   "venue": "Vulcan Gym & Fields",
+   "title": "Vulcans Women's Soccer vs Dominican Penguins - Senior Day",
+   "date": "2026-10-26",
+   "time": "12:30",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1709",
+   "type": "sports"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Cowboys vs Eagles",
+   "date": "2026-10-26",
+   "time": "14:15",
+   "url": "https://lahainacannerymall.com/event/cowboys-vs-eagles/",
+   "type": "community"
+  },
+  {
+   "venue": "Vulcan Gym & Fields",
+   "title": "Vulcans Men's Soccer vs Dominican Penguins - Senior Day",
+   "date": "2026-10-26",
+   "time": "15:00",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1709",
+   "type": "sports"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Mike Lewis Big Band",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/mike-lewis-big-band-blue-note-hawaii-tickets/14919103",
+   "type": "concert"
   }
  ]
 }
