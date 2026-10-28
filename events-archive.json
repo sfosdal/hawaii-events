@@ -769,6 +769,54 @@
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/mike-lewis-big-band-blue-note-hawaii-tickets/14919103",
    "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Forest Bird Hike",
+   "date": "2026-10-27",
+   "time": "09:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=138289",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Hula Lessons",
+   "date": "2026-10-27",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/hula-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "vein at KAKAʻAKO: Ladies Night",
+   "date": "2026-10-27",
+   "time": "16:30",
+   "url": "https://saltatkakaako.com/event/vein-at-kaka%ca%bbako-ladies-night/2026-10-27/",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Kawika Trask Trio Performance",
+   "date": "2026-10-27",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/the-kawika-trask-trio-july",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Trivia Tuesdays at Village Beer",
+   "date": "2026-10-27",
+   "time": "19:00",
+   "url": "https://saltatkakaako.com/event/trivia-tuesdays-at-village-beer/2026-10-27/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Jeff Bernat",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/jeff-bernat-blue-note-hawaii-tickets/14958443",
+   "type": "concert"
   }
  ]
 }
