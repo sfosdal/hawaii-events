@@ -897,6 +897,110 @@
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/jeff-bernat-blue-note-hawaii-tickets/14958453",
    "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Hosmer Hike",
+   "date": "2026-10-29",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=145522",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Keiki Hula Lessons",
+   "date": "2026-10-29",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/keiki-hula-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Hula Lessons",
+   "date": "2026-10-29",
+   "time": "13:00",
+   "url": "https://lahainacannerymall.com/event/hula-lessons/",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Exhibition on Screen: James McNeill Whistler",
+   "date": "2026-10-29",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/exhibition-on-screen-james-mcneill-whistler-lzx3",
+   "type": "arts"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Panthers vs Packers",
+   "date": "2026-10-29",
+   "time": "14:15",
+   "url": "https://lahainacannerymall.com/event/panthers-vs-packers/",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Highway Inn: Live Music Thursdays",
+   "date": "2026-10-29",
+   "time": "17:30",
+   "url": "https://saltatkakaako.com/event/highway-inn-live-music-thursdays/2026-10-29/",
+   "type": "community"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Mulligans Magic Show",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "url": "https://mulligansontheblue.com/event/mulligans-magic-show-95/",
+   "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Night Sky Program",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=145524",
+   "type": "community"
+  },
+  {
+   "venue": "Maui Arts & Cultural Center",
+   "title": "Scary Night Cinema - Rocky Horror Picture Show",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "url": "https://mauiarts.org/show-details/scary-night-cinema-rocky-horror-picture-show",
+   "type": "arts"
+  },
+  {
+   "venue": "Kumu Kahua Theatre",
+   "title": "Kupua by Haili'ōpua Baker",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://www.eventbrite.com/e/kupua-by-hailiopua-baker-tickets-1989971493305",
+   "type": "arts"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "The Land Has Spoken - Tales of Indigenous Horror",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://hilo.hawaii.edu/news/view/17470",
+   "type": "arts"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Ka'au Crater Boys - The Second Chapter",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/kaau-crater-boys-blue-note-hawaii-tickets/14345434",
+   "type": "concert"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "The Toxic Avenger (the musical)",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "url": "https://proartsmaui.org/event/the-toxic-avenger-oct-29-2026/",
+   "type": "arts"
   }
  ]
 }
