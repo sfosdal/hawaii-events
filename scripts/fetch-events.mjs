@@ -19,7 +19,7 @@ import './failures.mjs'; // first: every outside call retried, the ones still fa
 import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { isChurch } from './sources.mjs';
-import { mergeWithArchive, unionArchives, eventKey } from './merge.mjs';
+import { mergeWithArchive, unionArchives, eventKey, capUpcoming } from './merge.mjs';
 import { fixLinks } from './links.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
@@ -30,8 +30,9 @@ import { stampFestivals } from './festivals.mjs';
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
 const ICS_OUT = new URL('../site/events.ics', import.meta.url);
 // A full year each way: venues announce whole seasons ahead, and past events
-// are kept for a year (carried forward from the previously published feed —
-// see mergeWithArchive).
+// are kept for good (carried forward from the previously published feed —
+// see mergeWithArchive; a year until Steve, 2026-10-31: "all old events should
+// be kept"). The window only bounds what a source adds.
 const WINDOW_DAYS = 365;
 // The live feed is read from the site's own domain (a build that reads
 // neither copy of the archive refuses to publish — see mergeWithArchive;
@@ -41,7 +42,7 @@ const FEED_URL = process.env.FEED_URL || 'https://hawaii.here.events/events.json
 // the orphan `archive` branch by the workflow after each successful build
 const ARCHIVE_URL = process.env.ARCHIVE_URL || 'https://raw.githubusercontent.com/sfosdal/hawaii-events/archive/events-archive.json';
 const ARCHIVE_OUT = new URL('../events-archive.json', import.meta.url); // repo root, ignored; the workflow commits it to the branch
-const MAX_EVENTS = 4000; // sanity cap, not a display cap
+const MAX_EVENTS = 4000; // sanity cap on the UPCOMING rows (merge.mjs capUpcoming): past events are never trimmed
 
 // --- the island sites' feeds ---
 // city.js `sisters`: one entry per island site — its key (repo and host), the
@@ -168,7 +169,7 @@ if (branchArchive === null) console.error('Archive branch unreadable — buildin
 const archived = unionArchives(liveArchive || [], branchArchive || []);
 console.log(`Archive: ${(liveArchive || []).length} events in the live feed, ${(branchArchive || []).length} on the archive branch, ${archived.length} in the union`);
 
-const merged = mergeWithArchive(fresh, archived, today, cutoff).slice(-MAX_EVENTS);
+const merged = capUpcoming(mergeWithArchive(fresh, archived, today, cutoff), today, MAX_EVENTS);
 await stampFestivals(merged, { city: CITY.key }); // the festivals Steve approved from the weekly list (scripts/festivals.mjs)
 
 // League schedules flag floating dates Ticketmaster doesn't know yet, and
