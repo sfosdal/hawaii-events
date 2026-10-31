@@ -25,6 +25,7 @@ import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs';
 import { emptyListGate } from './feeds.mjs';
+import { stampFestivals } from './festivals.mjs';
 
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
 const ICS_OUT = new URL('../site/events.ics', import.meta.url);
@@ -168,6 +169,7 @@ const archived = unionArchives(liveArchive || [], branchArchive || []);
 console.log(`Archive: ${(liveArchive || []).length} events in the live feed, ${(branchArchive || []).length} on the archive branch, ${archived.length} in the union`);
 
 const merged = mergeWithArchive(fresh, archived, today, cutoff).slice(-MAX_EVENTS);
+await stampFestivals(merged, { city: CITY.key }); // the festivals Steve approved from the weekly list (scripts/festivals.mjs)
 
 // League schedules flag floating dates Ticketmaster doesn't know yet, and
 // the full seasons (home and away) feed the site's Teams view
