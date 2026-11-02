@@ -1409,6 +1409,86 @@
    "time": "21:00",
    "url": "https://hbsocialclub.com/event/5th-annual-twin-fin-halloween/",
    "type": "concert"
+  },
+  {
+   "venue": "Hawaii Theatre Center",
+   "title": "The Last Dive – How Far Would You Go For A Friend?",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://hawaiitheatre.my.salesforce-sites.com/ticket/#/events/a0SUl00000EaBePMAV",
+   "type": "arts"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "NFL Watch Parties",
+   "date": "2026-11-01",
+   "time": "08:00",
+   "url": "https://lahainacannerymall.com/event/nfl-watch-parties-3/",
+   "type": "community"
+  },
+  {
+   "venue": "Blaisdell Exhibition Hall",
+   "title": "Hawaii Holiday Craft & Gift Fair - SUNDAY",
+   "date": "2026-11-01",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/hawaii-holiday-craft-gift-fair-sunday-honolulu-hawaii-11-01-2026/event/0A00655410BD8A92",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Maddie's Secret",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/maddie-s-secret-18zj",
+   "type": "arts"
+  },
+  {
+   "venue": "Kahilu Theatre",
+   "title": "Kahilu – The Gift of Place (Film Screening)",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://kahilu.org/events/kahilu-the-gift-of-place/",
+   "type": "arts"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Eagles vs. Commanders",
+   "date": "2026-11-01",
+   "time": "15:20",
+   "url": "https://lahainacannerymall.com/event/eagles-vs-commanders/",
+   "type": "community"
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "HOT - The Shining",
+   "date": "2026-11-01",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/hot-the-shining-honolulu-hawaii-11-01-2026/event/0A00652FB48391F5",
+   "type": "arts"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Island Soul Band",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "url": "https://mulligansontheblue.com/event/island-soul-band-95/",
+   "type": "concert"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Wildwood",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/wildwood-2026-11-01-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Magic in Paradise",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "url": "https://proartsmaui.org/event/magic-in-paradise-nov-1-2026/",
+   "type": "arts"
   }
  ]
 }
