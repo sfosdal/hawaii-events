@@ -1623,6 +1623,131 @@
    "time": "19:30",
    "url": "https://saltatkakaako.com/event/pitch-dart-club/2026-11-04/",
    "type": "community"
+  },
+  {
+   "venue": "Da Playground",
+   "title": "Country Night!",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.daplaygroundmaui.com/products/country-night-16",
+   "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Hosmer Hike",
+   "date": "2026-11-05",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=146280",
+   "type": "community"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "County of Hawaii Agrifood Summit",
+   "date": "2026-11-05",
+   "time": "10:00",
+   "url": "https://www.honokaapeople.com/event-details/county-of-hawaii-agrifood-summit-1",
+   "type": "concert"
+  },
+  {
+   "venue": "Vulcan Gym & Fields",
+   "title": "Vulcans Women's Soccer vs #1 Point Loma vs #4 Biola - Semifinal Round",
+   "date": "2026-11-05",
+   "time": "11:00",
+   "url": "https://fan.hudl.com/tickets/VGlja2V0ZWRFdmVudDZhZGE4MWIxOGQ3NWYxZjM3ODY0YTk3ZQ==",
+   "type": "sports"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Hula Lessons",
+   "date": "2026-11-05",
+   "time": "13:00",
+   "url": "https://lahainacannerymall.com/event/hula-lessons/",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Filipiñana",
+   "date": "2026-11-05",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/filipinana-jgvq",
+   "type": "arts"
+  },
+  {
+   "venue": "Vulcan Gym & Fields",
+   "title": "Vulcans Women's Soccer vs Concordia Golden Eagles - Semifinal Round",
+   "date": "2026-11-05",
+   "time": "14:30",
+   "url": "https://fan.hudl.com/tickets/VGlja2V0ZWRFdmVudDZhZGE4MWIxOGQ3NWYxZjM3ODY0YTk3ZQ==",
+   "type": "sports"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Jaguars vs Ravens",
+   "date": "2026-11-05",
+   "time": "15:15",
+   "url": "https://lahainacannerymall.com/event/jaguars-vs-ravens/",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Highway Inn: Live Music Thursdays",
+   "date": "2026-11-05",
+   "time": "17:30",
+   "url": "https://saltatkakaako.com/event/highway-inn-live-music-thursdays/2026-11-05/",
+   "type": "community"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Mulligans Magic Show",
+   "date": "2026-11-05",
+   "time": "18:30",
+   "url": "https://mulligansontheblue.com/event/mulligans-magic-show-98/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Wailers",
+   "date": "2026-11-05",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/the-wailers-blue-note-hawaii-tickets/14909503",
+   "type": "concert"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Wildwood",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "url": "https://www.honokaapeople.com/event-details/wildwood-2026-11-05-19-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Womens Volleyball vs. Nevada Wolfpack Womens Volleyball",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MW+"
+    ]
+   }
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "Rachmaninoff and Copland",
+   "date": "2026-11-05",
+   "time": "19:30",
+   "url": "https://blaisdellcenter.com/event/rachmaninoff-and-copland/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Wailers",
+   "date": "2026-11-05",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/the-wailers-blue-note-hawaii-tickets/14909513",
+   "type": "concert"
   }
  ]
 }
