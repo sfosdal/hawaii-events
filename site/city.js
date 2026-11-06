@@ -364,7 +364,7 @@
       type: 'community',
       cssVar: '--v-cannery',
       color: '#a786ea',
-      url: 'https://lahainacannerymall.com/',
+      url: 'https://lahainacannerymall.com/entertainment/',
       icon: 'https://www.google.com/s2/favicons?domain=lahainacannerymall.com&sz=128',
     },
     'Hui Noʻeau': {
@@ -415,7 +415,7 @@
       type: 'community',
       cssVar: '--v-coffeefest',
       color: '#eac886',
-      url: 'https://konacoffeefest.com/calendar/',
+      url: 'https://konacoffeefest.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=konacoffeefest.com&sz=128',
     },
     'Aloha Theatre': {
