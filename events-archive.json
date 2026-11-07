@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Live Sessions @ Hula’s w/ Johnny Stahley",
+   "date": "2026-02-07",
+   "time": "18:00",
+   "url": "https://hulas.com/event/live-music-w-johnny-stahley/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Live Sessions @ Hula’s w/ Kalau",
+   "date": "2026-02-13",
+   "time": "18:00",
+   "url": "https://hulas.com/event/live-music-w-kalau/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Thirst Friday @ Hula’s!",
+   "date": "2026-03-06",
+   "time": "21:00",
+   "url": "https://hulas.com/event/thirst-friday/",
+   "type": "concert"
+  },
+  {
    "venue": "Merrie Monarch Festival",
    "title": "Hoʻolauleʻa — Afook-Chinen Civic Auditorium",
    "date": "2026-04-05",
@@ -73,12 +97,36 @@
    "type": "community"
   },
   {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Open Mic Night",
+   "date": "2026-07-06",
+   "time": "19:00",
+   "url": "https://hulas.com/event/open-mic-night-2/",
+   "type": "concert"
+  },
+  {
    "venue": "Hui Noʻeau",
    "title": "Mālama Wao Akua 2026",
    "date": "2026-09-11",
    "time": "17:00",
    "url": "https://www.huinoeau.com/exhibitions/2026/9/malama-wao-akua",
    "type": "arts"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Live Sessions @ Hula’s w/ Yoza",
+   "date": "2026-09-15",
+   "time": "18:00",
+   "url": "https://hulas.com/event/live-music-w-yoza-2-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Live Sessions @ Hula’s w/ Connor Johnson",
+   "date": "2026-09-17",
+   "time": "18:00",
+   "url": "https://hulas.com/event/live-music-w-connor-johnson-2-2/",
+   "type": "concert"
   },
   {
    "venue": "UH Hilo Performing Arts Center",
