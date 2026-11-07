@@ -293,7 +293,6 @@
       cssVar: '--v-iao',
       color: '#eac086',
       url: 'https://www.mauionstage.com/',
-      icon: 'marks/venues/mauionstage.com.png',
     },
     'Hale Hōʻikeʻike': {
       island: 'maui',
