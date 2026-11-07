@@ -64,7 +64,7 @@
       cssVar: '--v-arena',
       color: '#ea8686',
       url: 'https://www.blaisdellcenter.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.blaisdellcenter.com&sz=128',
+      icon: 'marks/venues/blaisdellcenter.com.png',
     },
     'Blaisdell Concert Hall': {
       island: 'honolulu',
@@ -74,7 +74,7 @@
       cssVar: '--v-concerthall',
       color: '#86eaa4',
       url: 'https://www.blaisdellcenter.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.blaisdellcenter.com&sz=128',
+      icon: 'marks/venues/blaisdellcenter.com.png',
     },
     'Blaisdell Exhibition Hall': {
       island: 'honolulu',
@@ -84,7 +84,7 @@
       cssVar: '--v-exhibition',
       color: '#c086ea',
       url: 'https://www.blaisdellcenter.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.blaisdellcenter.com&sz=128',
+      icon: 'marks/venues/blaisdellcenter.com.png',
     },
     'Stan Sheriff Center': {
       island: 'honolulu',
@@ -94,7 +94,7 @@
       cssVar: '--v-sheriff',
       color: '#eade86',
       url: 'https://hawaiiathletics.com/calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=hawaiiathletics.com&sz=128',
+      icon: 'marks/venues/hawaiiathletics.com.png',
     },
     'Ching Athletics Complex': {
       island: 'honolulu',
@@ -104,7 +104,7 @@
       cssVar: '--v-ching',
       color: '#86d9ea',
       url: 'https://hawaiiathletics.com/sports/football/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=hawaiiathletics.com&sz=128',
+      icon: 'marks/venues/hawaiiathletics.com.png',
     },
     'Waikiki Shell': {
       island: 'honolulu',
@@ -114,7 +114,7 @@
       cssVar: '--v-shell',
       color: '#ea86bb',
       url: 'https://www.blaisdellcenter.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.blaisdellcenter.com&sz=128',
+      icon: 'marks/venues/blaisdellcenter.com.png',
     },
     'Hawaii Theatre Center': {
       island: 'honolulu',
@@ -124,7 +124,7 @@
       cssVar: '--v-hawaiitheatre',
       color: '#9fea86',
       url: 'https://www.hawaiitheatre.com/upcoming-events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hawaiitheatre.com&sz=128',
+      icon: 'marks/venues/hawaiitheatre.com.png',
     },
     'Diamond Head Theatre': {
       island: 'honolulu',
@@ -134,7 +134,7 @@
       cssVar: '--v-diamondhead',
       color: '#ea869f',
       url: 'https://www.diamondheadtheatre.com/shows-tickets/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.diamondheadtheatre.com&sz=128',
+      icon: 'marks/venues/diamondheadtheatre.com.png',
     },
     'Kumu Kahua Theatre': {
       island: 'honolulu',
@@ -144,7 +144,7 @@
       cssVar: '--v-kumukahua',
       color: '#86c0ea',
       url: 'https://www.kumukahua.org/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.kumukahua.org&sz=128',
+      icon: 'marks/venues/kumukahua.org.jpg',
     },
     'Honolulu Museum of Art': {
       island: 'honolulu',
@@ -154,7 +154,7 @@
       cssVar: '--v-homa',
       color: '#86eadc',
       url: 'https://honolulumuseum.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=honolulumuseum.org&sz=128',
+      icon: 'marks/venues/honolulumuseum.org.png',
     },
     'Orvis Auditorium': {
       island: 'honolulu',
@@ -164,7 +164,7 @@
       cssVar: '--v-orvis',
       color: '#86ea86',
       url: 'https://manoa.hawaii.edu/music/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=manoa.hawaii.edu&sz=128',
+      icon: 'marks/venues/manoa.hawaii.edu.png',
     },
     'Bishop Museum': {
       island: 'honolulu',
@@ -174,7 +174,6 @@
       cssVar: '--v-bishop',
       color: '#e1ea86',
       url: 'https://www.bishopmuseum.org/exhibits-and-programs/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.bishopmuseum.org&sz=128',
     },
     'ʻIolani Palace': {
       island: 'honolulu',
@@ -184,7 +183,7 @@
       cssVar: '--v-iolani',
       color: '#86a4ea',
       url: 'https://www.iolanipalace.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.iolanipalace.org&sz=128',
+      icon: 'marks/venues/iolanipalace.org.png',
     },
     'Hawaiian Mission Houses': {
       island: 'honolulu',
@@ -194,7 +193,6 @@
       cssVar: '--v-missionhouses',
       color: '#a786ea',
       url: 'https://missionhouses.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=missionhouses.org&sz=128',
     },
     'HB Social Club': {
       island: 'honolulu',
@@ -204,7 +202,7 @@
       cssVar: '--v-hbsocial',
       color: '#86eac5',
       url: 'https://hbsocialclub.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=hbsocialclub.com&sz=128',
+      icon: 'marks/venues/hbsocialclub.com.png',
     },
     'The Republik': {
       island: 'honolulu',
@@ -214,7 +212,7 @@
       cssVar: '--v-republik',
       color: '#8b86ea',
       url: 'https://jointherepublik.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=jointherepublik.com&sz=128',
+      icon: 'marks/venues/jointherepublik.com.png',
     },
     'Blue Note Hawaii': {
       island: 'honolulu',
@@ -224,7 +222,7 @@
       cssVar: '--v-bluenote',
       color: '#eaa786',
       url: 'https://www.bluenotehawaii.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.bluenotehawaii.com&sz=128',
+      icon: 'marks/venues/bluenotehawaii.com.png',
     },
     "Hula's Bar & Lei Stand": {
       island: 'honolulu',
@@ -234,7 +232,7 @@
       cssVar: '--v-hulas',
       color: '#eac086',
       url: 'https://hulas.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=hulas.com&sz=128',
+      icon: 'marks/venues/hulas.com.png',
     },
     'Royal Hawaiian Center': {
       island: 'honolulu',
@@ -244,7 +242,7 @@
       cssVar: '--v-royalhawaiian',
       color: '#d686ea',
       url: 'https://www.royalhawaiiancenter.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.royalhawaiiancenter.com&sz=128',
+      icon: 'marks/venues/royalhawaiiancenter.com.jpg',
     },
     'SALT at Our Kakaʻako': {
       island: 'honolulu',
@@ -254,7 +252,7 @@
       cssVar: '--v-salt',
       color: '#ea9a86',
       url: 'https://saltatkakaako.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=saltatkakaako.com&sz=128',
+      icon: 'marks/venues/saltatkakaako.com.png',
     },
     'Palikū Theatre': {
       island: 'honolulu',
@@ -264,7 +262,7 @@
       cssVar: '--v-paliku',
       color: '#b8ea86',
       url: 'https://windward.hawaii.edu/campus-life/events-calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=windward.hawaii.edu&sz=128',
+      icon: 'marks/venues/windward.hawaii.edu.png',
     },
     'Waimea Valley': {
       island: 'honolulu',
@@ -274,7 +272,7 @@
       cssVar: '--v-waimea',
       color: '#ea86d9',
       url: 'https://www.waimeavalley.net/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.waimeavalley.net&sz=128',
+      icon: 'marks/venues/waimeavalley.net.png',
     },
     // --- Maui ---
     'Maui Arts & Cultural Center': {
@@ -285,7 +283,7 @@
       cssVar: '--v-macc',
       color: '#ea8686',
       url: 'https://mauiarts.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=mauiarts.org&sz=128',
+      icon: 'marks/venues/mauiarts.org.png',
     },
     'ʻĪao Theater': {
       island: 'maui',
@@ -295,7 +293,7 @@
       cssVar: '--v-iao',
       color: '#eac086',
       url: 'https://www.mauionstage.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mauionstage.com&sz=128',
+      icon: 'marks/venues/mauionstage.com.png',
     },
     'Hale Hōʻikeʻike': {
       island: 'maui',
@@ -305,7 +303,7 @@
       cssVar: '--v-bailey',
       color: '#e1ea86',
       url: 'https://mauimuseum.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=mauimuseum.org&sz=128',
+      icon: 'marks/venues/mauimuseum.org.png',
     },
     'ProArts Playhouse': {
       island: 'maui',
@@ -315,7 +313,7 @@
       cssVar: '--v-proarts',
       color: '#b8ea86',
       url: 'https://proartsmaui.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=proartsmaui.org&sz=128',
+      icon: 'marks/venues/proartsmaui.org.jpg',
     },
     'Mulligans on the Blue': {
       island: 'maui',
@@ -325,7 +323,7 @@
       cssVar: '--v-mulligans',
       color: '#86ea86',
       url: 'https://mulligansontheblue.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=mulligansontheblue.com&sz=128',
+      icon: 'marks/venues/mulligansontheblue.com.jpg',
     },
     'Da Playground': {
       island: 'maui',
@@ -335,7 +333,7 @@
       cssVar: '--v-playground',
       color: '#86eadc',
       url: 'https://www.daplaygroundmaui.com/collections/tickets',
-      icon: 'https://www.google.com/s2/favicons?domain=www.daplaygroundmaui.com&sz=128',
+      icon: 'marks/venues/daplaygroundmaui.com.jpg',
     },
     'Pacific Whale Foundation': {
       island: 'maui',
@@ -345,7 +343,7 @@
       cssVar: '--v-pwf',
       color: '#86c0ea',
       url: 'https://pacificwhale.org/how-you-can-help/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=pacificwhale.org&sz=128',
+      icon: 'marks/venues/pacificwhale.org.png',
     },
     'Lahaina Civic Center': {
       island: 'maui',
@@ -355,7 +353,7 @@
       cssVar: '--v-civic',
       color: '#86a4ea',
       url: 'https://mauiinvitational.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=mauiinvitational.com&sz=128',
+      icon: 'marks/venues/mauiinvitational.com.png',
     },
     'Lahaina Cannery Mall': {
       island: 'maui',
@@ -365,7 +363,6 @@
       cssVar: '--v-cannery',
       color: '#a786ea',
       url: 'https://lahainacannerymall.com/entertainment/',
-      icon: 'https://www.google.com/s2/favicons?domain=lahainacannerymall.com&sz=128',
     },
     'Hui Noʻeau': {
       island: 'maui',
@@ -375,7 +372,7 @@
       cssVar: '--v-hui',
       color: '#d686ea',
       url: 'https://www.huinoeau.com/exhibitions',
-      icon: 'https://www.google.com/s2/favicons?domain=www.huinoeau.com&sz=128',
+      icon: 'marks/venues/huinoeau.com.png',
     },
     'Haleakalā National Park': {
       island: 'maui',
@@ -385,7 +382,7 @@
       cssVar: '--v-haleakala',
       color: '#ea86d9',
       url: 'https://www.nps.gov/hale/planyourvisit/calendar.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
+      icon: 'marks/venues/nps.gov.png',
     },
     'Lānaʻi Culture & Heritage Center': {
       island: 'maui',
@@ -395,7 +392,7 @@
       cssVar: '--v-lanai',
       color: '#ea869f',
       url: 'https://lanaichc.org/our-events/',
-      icon: 'https://www.google.com/s2/favicons?domain=lanaichc.org&sz=128',
+      icon: 'marks/venues/lanaichc.org.png',
     },
     // --- Hawaiʻi Island — Kona & Kohala ---
     'KBXtreme': {
@@ -406,7 +403,7 @@
       cssVar: '--v-kbx',
       color: '#86c8ea',
       url: 'https://www.kbxtreme.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.kbxtreme.com&sz=128',
+      icon: 'marks/venues/kbxtreme.com.png',
     },
     'Kona Coffee Cultural Festival': {
       festival: true,      island: 'bigisland',
@@ -416,7 +413,7 @@
       cssVar: '--v-coffeefest',
       color: '#eac886',
       url: 'https://konacoffeefest.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=konacoffeefest.com&sz=128',
+      icon: 'marks/venues/konacoffeefest.com.png',
     },
     'Aloha Theatre': {
       island: 'bigisland',
@@ -426,7 +423,7 @@
       cssVar: '--v-aloha',
       color: '#ea8686',
       url: 'https://www.apachawaii.org/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.apachawaii.org&sz=128',
+      icon: 'marks/venues/apachawaii.org.png',
     },
     'Puʻuhonua o Hōnaunau National Historical Park': {
       island: 'bigisland',
@@ -436,7 +433,7 @@
       cssVar: '--v-puuhonua',
       color: '#86ea86',
       url: 'https://www.nps.gov/puho/planyourvisit/calendar.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
+      icon: 'marks/venues/nps.gov.png',
     },
     'Kaloko-Honokōhau National Historical Park': {
       island: 'bigisland',
@@ -446,7 +443,7 @@
       cssVar: '--v-kaloko',
       color: '#86eac8',
       url: 'https://www.nps.gov/kaho/planyourvisit/calendar.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
+      icon: 'marks/venues/nps.gov.png',
     },
     'Waikoloa Bowl at Queens’ Gardens': {
       island: 'bigisland',
@@ -456,7 +453,7 @@
       cssVar: '--v-bowl',
       color: '#c886ea',
       url: 'https://www.waikoloabeachresort.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.waikoloabeachresort.com&sz=128',
+      icon: 'marks/venues/waikoloabeachresort.com.png',
     },
     'Hilton Waikoloa Village': {
       island: 'bigisland',
@@ -466,7 +463,7 @@
       cssVar: '--v-hilton',
       color: '#8696ea',
       url: 'https://www.hilton.com/en/hotels/koahwhh-hilton-waikoloa-village/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hilton.com&sz=128',
+      icon: 'marks/venues/hilton.com.png',
     },
     'Queens’ MarketPlace': {
       island: 'bigisland',
@@ -476,7 +473,7 @@
       cssVar: '--v-queens',
       color: '#ea86d9',
       url: 'https://www.queensmarketplace.com/qmp-events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.queensmarketplace.com&sz=128',
+      icon: 'marks/venues/queensmarketplace.com.jpg',
     },
     'Kings’ Shops': {
       island: 'bigisland',
@@ -486,7 +483,7 @@
       cssVar: '--v-kings',
       color: '#eaa786',
       url: 'https://kingsshops.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=kingsshops.com&sz=128',
+      icon: 'marks/venues/kingsshops.com.png',
     },
     'Kahilu Theatre': {
       island: 'bigisland',
@@ -496,7 +493,7 @@
       cssVar: '--v-kahilu',
       color: '#eae186',
       url: 'https://kahilu.org/shows/',
-      icon: 'https://www.google.com/s2/favicons?domain=kahilu.org&sz=128',
+      icon: 'marks/venues/kahilu.org.png',
     },
     'Honokaʻa People’s Theatre': {
       island: 'bigisland',
@@ -506,7 +503,6 @@
       cssVar: '--v-honokaa',
       color: '#eab386',
       url: 'https://www.honokaapeople.com/now-playing',
-      icon: 'https://www.google.com/s2/favicons?domain=www.honokaapeople.com&sz=128',
     },
     'Puʻukoholā Heiau National Historic Site': {
       island: 'bigisland',
@@ -516,7 +512,7 @@
       cssVar: '--v-puukohola',
       color: '#a7ea86',
       url: 'https://www.nps.gov/puhe/planyourvisit/calendar.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
+      icon: 'marks/venues/nps.gov.png',
     },
     // --- Hawaiʻi Island — Hilo, Volcano & Hāmākua ---
     'Palace Theater': {
@@ -527,7 +523,7 @@
       cssVar: '--v-palace',
       color: '#ea8686',
       url: 'https://hilopalace.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=hilopalace.com&sz=128',
+      icon: 'marks/venues/hilopalace.com.png',
     },
     'UH Hilo Performing Arts Center': {
       island: 'bigisland',
@@ -537,7 +533,7 @@
       cssVar: '--v-pac',
       color: '#c886ea',
       url: 'https://artscenter.uhh.hawaii.edu/future.php',
-      icon: 'https://www.google.com/s2/favicons?domain=hilo.hawaii.edu&sz=128',
+      icon: 'marks/venues/hilo.hawaii.edu.png',
     },
     'Afook-Chinen Civic Auditorium': {
       island: 'bigisland',
@@ -547,7 +543,7 @@
       cssVar: '--v-hilo-civic',
       color: '#8696ea',
       url: 'https://www.hawaiicounty.gov/departments/parks-and-recreation',
-      icon: 'https://www.google.com/s2/favicons?domain=www.hawaiicounty.gov&sz=128',
+      icon: 'marks/venues/hawaiicounty.gov.png',
     },
     'Merrie Monarch Festival': {
       festival: true,      island: 'bigisland',
@@ -557,7 +553,7 @@
       cssVar: '--v-merrie',
       color: '#eac886',
       url: 'https://www.merriemonarch.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.merriemonarch.com&sz=128',
+      icon: 'marks/venues/merriemonarch.com.png',
     },
     'Crown Room at the Grand Naniloa': {
       island: 'bigisland',
@@ -567,7 +563,7 @@
       cssVar: '--v-crown',
       color: '#ea86d9',
       url: 'https://grandnaniloahilo.com/onsite-events.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=grandnaniloahilo.com&sz=128',
+      icon: 'marks/venues/grandnaniloahilo.com.jpg',
     },
     'ʻImiloa Astronomy Center': {
       island: 'bigisland',
@@ -577,7 +573,7 @@
       cssVar: '--v-imiloa',
       color: '#86c8ea',
       url: 'https://imiloahawaii.org/event-calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=imiloahawaii.org&sz=128',
+      icon: 'marks/venues/imiloahawaii.org.png',
     },
     'Vulcan Gym & Fields': {
       island: 'bigisland',
@@ -587,7 +583,7 @@
       cssVar: '--v-vulcans',
       color: '#eaa786',
       url: 'https://hiloathletics.com/calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=hiloathletics.com&sz=128',
+      icon: 'marks/venues/hiloathletics.com.png',
     },
     'Hawaiʻi Volcanoes National Park': {
       island: 'bigisland',
@@ -597,7 +593,7 @@
       cssVar: '--v-volcanoes',
       color: '#eae186',
       url: 'https://www.nps.gov/havo/planyourvisit/calendar.htm',
-      icon: 'https://www.google.com/s2/favicons?domain=www.nps.gov&sz=128',
+      icon: 'marks/venues/nps.gov.png',
     },
     'Volcano Art Center': {
       island: 'bigisland',
@@ -607,7 +603,7 @@
       cssVar: '--v-vac',
       color: '#86eac8',
       url: 'https://volcanoartcenter.org/ep-events/',
-      icon: 'https://www.google.com/s2/favicons?domain=volcanoartcenter.org&sz=128',
+      icon: 'marks/venues/volcanoartcenter.org.png',
     },
   };
 
