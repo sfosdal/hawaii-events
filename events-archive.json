@@ -2252,6 +2252,14 @@
    "type": "arts"
   },
   {
+   "venue": "Bishop Museum",
+   "title": "Nānā I Ke Kumu: He Hoʻoilina Ola Ka Hula",
+   "date": "2026-11-07",
+   "time": "17:30",
+   "url": "https://www.bishopmuseum.org/calendar/nana-i-ke-kumu-he-ho%ca%bboilina-ola-ka-hula/",
+   "type": "community"
+  },
+  {
    "venue": "Waikiki Shell",
    "title": "The Green Titles Tour",
    "date": "2026-11-07",
@@ -2954,6 +2962,219 @@
    "time": "20:00",
    "url": "https://kingsshops.com/event/nahoa-entertainment-presents-fires-of-polynesia/",
    "type": "community"
+  },
+  {
+   "venue": "Kahilu Theatre",
+   "title": "24th Annual ʻUkulele & Slack Ke...",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://kahilu.org/events/24th-annual-%ca%bbukulele-slack-key-guitar-festival-2-day-pass/",
+   "type": "arts"
+  },
+  {
+   "venue": "Kahilu Theatre",
+   "title": "24th Annual ʻUkulele & Slack Key Guitar Festival 2-Day Pass",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://kahilu.org/events/24th-annual-%ca%bbukulele-slack-key-guitar-festival-2-day-pass/",
+   "type": "arts"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "Hawai’i International Film Festival – HIFF",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://hilopalace.com/palace-event/hiff/",
+   "type": "arts"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Paʻa: Kanaloa Kānaka i Kanaloa — Ea aʻe ka ʻOhana",
+   "date": "2026-11-12",
+   "time": "08:00",
+   "url": "https://www.bishopmuseum.org/calendar/pa%ca%bba-kanaloa-kanaka-i-kanaloa-ea-a%ca%bbe-ka-%ca%bbohana/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Island Sun Coffee: Farming Kona Coffee with Diversified Crops",
+   "date": "2026-11-12",
+   "time": "09:00",
+   "url": "https://konacoffeefest.com/event/island-sun-coffee-farming-kona-coffee-with-diversified-crops-2/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Greenwell Farms – Seed To Cup Farm Tour — Kealakekua",
+   "date": "2026-11-12",
+   "time": "09:00",
+   "url": "https://konacoffeefest.com/event/greenwell-farms-seed-to-cup-farm-tour/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "UCC Hawaii Kona Coffee Picking & Farm Experience — Holualoa",
+   "date": "2026-11-12",
+   "time": "09:00",
+   "url": "https://konacoffeefest.com/event/ucc-hawaii-kona-coffee-picking-farm-experience/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Doutor Coffee “Mauka Meadows” Self-Guided Farm Tour & Coffee Tasting — Holualoa",
+   "date": "2026-11-12",
+   "time": "09:00",
+   "url": "https://konacoffeefest.com/event/maukameadows-coffee-farm-tour/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Buddha’s Cup: Tasting Coffee Like Fine Wine — Holualoa",
+   "date": "2026-11-12",
+   "time": "09:30",
+   "url": "https://konacoffeefest.com/event/buddhas-cup-farm-tour/",
+   "type": "community"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Hosmer Hike",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=146283",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Kona Coffee Quilt & Fiber Arts Show — Kailua-Kona",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "url": "https://konacoffeefest.com/event/kona-coffee-quilt-show/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Exhibition: Revisiting Kealakekua Bay, Reworking the Captain Cook Monument — Donkey Mill Art Center",
+   "date": "2026-11-12",
+   "time": "10:00",
+   "url": "https://konacoffeefest.com/event/exhibition-mana-ka-moomoo-donkey-mill-art-center/",
+   "type": "community"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Hula Lessons",
+   "date": "2026-11-12",
+   "time": "13:00",
+   "url": "https://lahainacannerymall.com/event/hula-lessons-2/",
+   "type": "community"
+  },
+  {
+   "venue": "Orvis Auditorium",
+   "title": "Junior Recital – Leimomi Nahulu",
+   "date": "2026-11-12",
+   "time": "13:30",
+   "url": "https://manoa.hawaii.edu/music/event/junior-recital-leimomi-nahulu/",
+   "type": "arts"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Drowned Land",
+   "date": "2026-11-12",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/drowned-land-723n",
+   "type": "arts"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Commanders vs. Giants",
+   "date": "2026-11-12",
+   "time": "15:15",
+   "url": "https://lahainacannerymall.com/event/commanders-vs-giants/",
+   "type": "community"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Forgotten Island",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/forgotten-island-2026-11-12-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Highway Inn: Live Music Thursdays",
+   "date": "2026-11-12",
+   "time": "17:30",
+   "url": "https://saltatkakaako.com/event/highway-inn-live-music-thursdays/2026-11-12/",
+   "type": "community"
+  },
+  {
+   "venue": "Kona Coffee Cultural Festival",
+   "title": "Kona Coffee Latte Art Throw Down — Kona Coffee & Tea",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://konacoffeefest.com/event/kona-coffee-latte-art-throw-down/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Paʻa: Kanaloa Kānaka i Kanaloa — Ea aʻe ka ʻOhana",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://www.bishopmuseum.org/calendar/pa%ca%bba-kanaloa-kanaka-i-kanaloa-ea-a%ca%bbe-ka-%ca%bbohana/",
+   "type": "community"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Mulligans Magic Show",
+   "date": "2026-11-12",
+   "time": "18:30",
+   "url": "https://mulligansontheblue.com/event/mulligans-magic-show-94/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "DeRay Davis",
+   "date": "2026-11-12",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/deray-davis-blue-note-hawaii-tickets/14925733",
+   "type": "arts"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "The Navigator",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://hilopalace.com/palace-event/the-navigator/",
+   "type": "arts"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Womens Volleyball vs. Air Force Academy Falcons Womens Volleyball",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MW+"
+    ]
+   }
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Standup Comedy Showcase",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://proartsmaui.org/event/standup-comedy-showcase-nov-12-2026/",
+   "type": "arts"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "DeRay Davis",
+   "date": "2026-11-12",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/deray-davis-blue-note-hawaii-tickets/14925753",
+   "type": "arts"
   }
  ]
 }
