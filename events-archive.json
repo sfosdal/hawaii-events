@@ -4041,6 +4041,30 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/sabrina-claudio-blue-note-hawaii-tickets/14345544",
    "type": "concert"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Chargers vs Ravens",
+   "date": "2026-11-16",
+   "time": "15:15",
+   "url": "https://lahainacannerymall.com/event/chargers-vs-ravens/",
+   "type": "community"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Open Mic Night",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://hulas.com/event/open-mic-night-2/2026-11-16/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Beleza",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/beleza-blue-note-hawaii-tickets/14390294",
+   "type": "concert"
   }
  ]
 }
