@@ -4065,6 +4065,78 @@
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/beleza-blue-note-hawaii-tickets/14390294",
    "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Forest Bird Hike",
+   "date": "2026-11-17",
+   "time": "09:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=138292",
+   "type": "community"
+  },
+  {
+   "venue": "Afook-Chinen Civic Auditorium",
+   "title": "Vulcans Women's Basketball vs Alaska Anchorage Seawolves",
+   "date": "2026-11-17",
+   "time": "15:00",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1718",
+   "type": "sports"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "vein at KAKAʻAKO: Ladies Night",
+   "date": "2026-11-17",
+   "time": "16:30",
+   "url": "https://saltatkakaako.com/event/vein-at-kaka%ca%bbako-ladies-night/2026-11-17/",
+   "type": "community"
+  },
+  {
+   "venue": "Afook-Chinen Civic Auditorium",
+   "title": "Vulcans Men's Basketball vs Grace U Talons",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1719",
+   "type": "sports"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Kihei Community Association",
+   "date": "2026-11-17",
+   "time": "18:30",
+   "url": "https://proartsmaui.org/event/kihei-community-association-nov-17-2026/",
+   "type": "arts"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Trivia Tuesdays at Village Beer",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://saltatkakaako.com/event/trivia-tuesdays-at-village-beer/2026-11-17/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "KOTA The Friend",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/kota-the-friend-blue-note-hawaii-tickets/14276764",
+   "type": "concert"
+  },
+  {
+   "venue": "Orvis Auditorium",
+   "title": "Jazz Ensemble Fall 2026 Concert",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://manoa.hawaii.edu/music/event/jazz-band-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Republik",
+   "title": "Killswitch Engage (All Ages accompanied by an adult event)",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "http://jointherepublik.com",
+   "type": "concert"
   }
  ]
 }
