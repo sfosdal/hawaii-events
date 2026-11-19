@@ -4137,6 +4137,102 @@
    "time": "20:00:00",
    "url": "http://jointherepublik.com",
    "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Forest Bird Hike",
+   "date": "2026-11-18",
+   "time": "09:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=138293",
+   "type": "community"
+  },
+  {
+   "venue": "Kaloko-Honokōhau National Historical Park",
+   "title": "Noʻeau Hoʻoniho (Skillful Setting of Stones) with Benson Chong",
+   "date": "2026-11-18",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=129838",
+   "type": "community"
+  },
+  {
+   "venue": "Puʻukoholā Heiau National Historic Site",
+   "title": "Cultural Demonstration - Hulu Ali'i (Chiefly Featherwork)",
+   "date": "2026-11-18",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=107430",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "vein at KAKAʻAKO: Booze & Bros.",
+   "date": "2026-11-18",
+   "time": "16:30",
+   "url": "https://saltatkakaako.com/event/vein-at-kaka%ca%bbako-booze-bros/2026-11-18/",
+   "type": "community"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "Everest: The Other Side",
+   "date": "2026-11-18",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/everest-the-other-side-2026-11-18-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Aloha Wailea Luau",
+   "date": "2026-11-18",
+   "time": "17:30",
+   "url": "https://www.alohawailealuau.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Kings’ Shops",
+   "title": "Hula & Cultural Demonstrations 2026",
+   "date": "2026-11-18",
+   "time": "17:30",
+   "url": "https://kingsshops.com/event/hula-and-cultural-demonstrations-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "Navigating by the Stars",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://www.bishopmuseum.org/calendar/navigating-by-the-stars-2027/",
+   "type": "community"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "rock n blues w/ live mic",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://hbsocialclub.com/event/rock-n-blues-w-live-mic/",
+   "type": "concert"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "John Cruz Island Style Series",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://proartsmaui.org/event/john-cruz-island-style-series-nov-18-2026/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "KOTA The Friend",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/kota-the-friend-blue-note-hawaii-tickets/14276774",
+   "type": "concert"
+  },
+  {
+   "venue": "Kumu Kahua Theatre",
+   "title": "Breaking News: Beyond The Headlines",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://www.eventbrite.com/e/breaking-news-beyond-the-headlines-tickets-2003326376119",
+   "type": "arts"
   }
  ]
 }
