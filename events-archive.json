@@ -4569,6 +4569,222 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/kalapana-blue-note-hawaii-tickets/14317954",
    "type": "concert"
+  },
+  {
+   "venue": "Hawaii Theatre Center",
+   "title": "Hawaii’s Favorite Comedians – A Celebration Of Laugh Tour",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://hawaiitheatre.my.salesforce-sites.com/ticket/#/events/a0SUl00000AbMzyMAF",
+   "type": "arts"
+  },
+  {
+   "venue": "ʻĪao Theater",
+   "title": "Raise the Roof Fundraiser",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://www.mauionstage.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Da Playground",
+   "title": "Fiesta Saturdays - Dia De Los Muertos",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://www.daplaygroundmaui.com/products/fiesta-saturdays-dia-de-los-muertos-2",
+   "type": "concert"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "26th Annual ʻUkulele Guild of Hawaiʻi Exhibition",
+   "date": "2026-11-21",
+   "time": "09:00",
+   "url": "https://www.bishopmuseum.org/calendar/26th-annual-%ca%bbukulele-guild-of-hawai%ca%bbi-exhibition/",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Bloom Garden & Art Festival by Honolulu Maker’s Market",
+   "date": "2026-11-21",
+   "time": "10:00",
+   "url": "https://saltatkakaako.com/event/bloom-garden-art-festival-by-honolulu-makers-market-4/",
+   "type": "community"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Maui OnStage Education & Youth Program presents “The Enchanted Bookshop”",
+   "date": "2026-11-21",
+   "time": "11:00",
+   "url": "https://proartsmaui.org/event/maui-onstage-education-youth-program-presents-the-enchanted-bookshop-nov-21-2026-11am/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hawaiʻi Volcanoes National Park",
+   "title": "Chegamos: We Arrived",
+   "date": "2026-11-21",
+   "time": "11:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=145171",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "The Collection in Context: Spirituality & Symbolism",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/the-collection-in-context-spirituality-and-symbolism-trgv",
+   "type": "arts"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "American Doctor",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/american-doctor-yhmc",
+   "type": "arts"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Art Can Be Bigger Than Yourself — B+Hari Signature Neuroarts Gallery Experiences",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/art-can-be-bigger-than-yourself-xdc4",
+   "type": "arts"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Maui OnStage Education & Youth Program presents “The Enchanted Bookshop”",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://proartsmaui.org/event/maui-onstage-education-youth-program-presents-the-enchanted-bookshop-nov-21-2026-2pm/",
+   "type": "arts"
+  },
+  {
+   "venue": "Afook-Chinen Civic Auditorium",
+   "title": "Vulcans Men's Basketball vs Fort Lewis vs CSU Monterey Bay",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1721",
+   "type": "sports"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Hula Kahiko Performance",
+   "date": "2026-11-21",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/hula-kahiko-july",
+   "type": "community"
+  },
+  {
+   "venue": "Queens’ MarketPlace",
+   "title": "Kanikapila Monthly Concert Series",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://www.queensmarketplace.com/event/kanikapila-monthly-concert-series-2/",
+   "type": "community"
+  },
+  {
+   "venue": "Afook-Chinen Civic Auditorium",
+   "title": "Vulcans Men's Basketball vs San Francisco State Gators - Tony Chevrolet Hilo",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://uhhilo.universitytickets.com/w/event.aspx?id=1721",
+   "type": "sports"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "Mariah and the Great Dragon",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "url": "https://hilopalace.com/palace-event/mariah-and-the-great-dragon/",
+   "type": "arts"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Save Ferris",
+   "date": "2026-11-21",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/save-ferris-blue-note-hawaii-tickets/15020453",
+   "type": "concert"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Chamber Music Hawaii: Twin Horns",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://honolulumuseum.org/events/chamber-music-hawaii-twin-horns-rs38",
+   "type": "arts"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "Twin Horns",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.chambermusichawaii.org/concert/twin-horns/",
+   "type": "arts"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Tempa + Naor with Michael Ferenci",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://mulligansontheblue.com/event/tempa-naor-with-keith-cochrane/",
+   "type": "concert"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "You Can See Everything",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.honokaapeople.com/event-details/you-can-see-everything-2026-11-21-19-00",
+   "type": "concert"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://hilo.hawaii.edu/news/view/17473",
+   "type": "arts"
+  },
+  {
+   "venue": "Orvis Auditorium",
+   "title": "UH Javanese Gamelan Ensemble Concert",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://manoa.hawaii.edu/music/event/uh-javanese-gamelan-ensemble-concert/",
+   "type": "arts"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Maui Bellydance Company presents Zoe Jakes and Jillina Carlano",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://proartsmaui.org/event/maui-bellydance-company-presents-zoe-jakes-and-jillina-carlano/",
+   "type": "arts"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "SOULGASM 19th Anniversary Celebration",
+   "date": "2026-11-21",
+   "time": "20:30",
+   "url": "https://hbsocialclub.com/event/soulgasm-19th-anniversary-celebration/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hula's Bar & Lei Stand",
+   "title": "Locker Room: STUFFED",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://hulas.com/event/locker-room/",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "Save Ferris",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/save-ferris-blue-note-hawaii-tickets/15020463",
+   "type": "concert"
   }
  ]
 }
