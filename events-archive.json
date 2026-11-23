@@ -4785,6 +4785,118 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/save-ferris-blue-note-hawaii-tickets/15020463",
    "type": "concert"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "Bloom Garden & Art Festival by Honolulu Maker’s Market",
+   "date": "2026-11-22",
+   "time": "10:00",
+   "url": "https://saltatkakaako.com/event/bloom-garden-art-festival-by-honolulu-makers-market-5/",
+   "type": "community"
+  },
+  {
+   "venue": "Honolulu Museum of Art",
+   "title": "CAFF presents: Juliet & the King",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://honolulumuseum.org/events/caff-presents-juliet-and-the-king-18zf",
+   "type": "arts"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Maui OnStage Education & Youth Program presents “The Enchanted Bookshop”",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://proartsmaui.org/event/maui-onstage-education-youth-program-presents-the-enchanted-bookshop-nov-22-2026-2pm/",
+   "type": "arts"
+  },
+  {
+   "venue": "UH Hilo Performing Arts Center",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://hilo.hawaii.edu/news/view/17476",
+   "type": "arts"
+  },
+  {
+   "venue": "Maui Arts & Cultural Center",
+   "title": "Hawaii’s Favorite Comedians – A Celebration Of Laughs! Tour with Frank Delima, featuring Andy Bumatai & Augie T",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "url": "https://mauiarts.org/show-details/hawaiis-favorite-comedians-a-celebration-of-laughs-tour-with-frank-delima-featuring-andy-bumatai-augie-t",
+   "type": "arts"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "You Can See Everything",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "url": "https://hilopalace.com/palace-event/you-can-see-everything/",
+   "type": "arts"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Island Soul Band",
+   "date": "2026-11-22",
+   "time": "17:00",
+   "url": "https://mulligansontheblue.com/event/island-soul-band-98/",
+   "type": "concert"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "You Can See Everything",
+   "date": "2026-11-22",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/you-can-see-everything-2026-11-22-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-11-22",
+   "time": "17:30",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Night Sky Program",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=146786",
+   "type": "community"
+  },
+  {
+   "venue": "Bishop Museum",
+   "title": "<em>T. REX:</em> Extended Cut Screenings",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.bishopmuseum.org/calendar/t-rex-extended-cut-screenings-fall-2026/",
+   "type": "community"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Magic in Paradise",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://proartsmaui.org/event/magic-in-paradise-nov-22-2026/",
+   "type": "arts"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "You Can See Everything",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://hilopalace.com/palace-event/you-can-see-everything/",
+   "type": "arts"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "The Elevations featuring Jesse Wagner of the Aggrolites",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/the-elevations-featuring-jesse-wagner-blue-note-hawaii-tickets/14089564",
+   "type": "concert"
   }
  ]
 }
