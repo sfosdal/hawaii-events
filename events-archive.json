@@ -5009,6 +5009,180 @@
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/eric-hutchinson-blue-note-hawaii-tickets/14888823",
    "type": "concert"
+  },
+  {
+   "venue": "Haleakalā National Park",
+   "title": "Forest Bird Hike",
+   "date": "2026-11-25",
+   "time": "09:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=138295",
+   "type": "community"
+  },
+  {
+   "venue": "Queens’ MarketPlace",
+   "title": "Don’t miss the perfect gift!",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "url": "https://www.queensmarketplace.com/event/dont-miss-the-perfect-gift/",
+   "type": "community"
+  },
+  {
+   "venue": "Puʻukoholā Heiau National Historic Site",
+   "title": "Cultural Demonstration - Hulu Ali'i (Chiefly Featherwork)",
+   "date": "2026-11-25",
+   "time": "10:00",
+   "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=107430",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Exclusive Holiday Gift",
+   "date": "2026-11-25",
+   "time": "11:00",
+   "url": "https://www.royalhawaiiancenter.com/events/holiday-gift-with-purchase-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Lauhala Weaving Lessons",
+   "date": "2026-11-25",
+   "time": "11:30",
+   "url": "https://www.royalhawaiiancenter.com/events/lauhala-weaving-lessons-july",
+   "type": "community"
+  },
+  {
+   "venue": "Lahaina Cannery Mall",
+   "title": "Packers vs Rams",
+   "date": "2026-11-25",
+   "time": "15:00",
+   "url": "https://lahainacannerymall.com/event/packers-vs-rams/",
+   "type": "community"
+  },
+  {
+   "venue": "SALT at Our Kakaʻako",
+   "title": "vein at KAKAʻAKO: Booze & Bros.",
+   "date": "2026-11-25",
+   "time": "16:30",
+   "url": "https://saltatkakaako.com/event/vein-at-kaka%ca%bbako-booze-bros/2026-11-25/",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Holiday KICK-OFF Show & Aloha Santa Arrival",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "url": "https://www.royalhawaiiancenter.com/events/holiday-kickoff-show-aloha-santa-arrival-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "Weekly Holiday Show & Complimentary Photos With Santa",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "url": "https://www.royalhawaiiancenter.com/events/weekly-holiday-performance-and-photos-with-santa-2026",
+   "type": "community"
+  },
+  {
+   "venue": "Honokaʻa People’s Theatre",
+   "title": "You Can See Everything",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "url": "https://www.honokaapeople.com/event-details/you-can-see-everything-2026-11-25-17-00",
+   "type": "concert"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "ANA ‘Aha Mele Evening & Moonlight Concert",
+   "date": "2026-11-25",
+   "time": "17:00:00",
+   "url": "https://www.ticketweb.com/event/ana-aha-mele-evening-blue-note-hawaii-tickets/14250594",
+   "type": "arts"
+  },
+  {
+   "venue": "Royal Hawaiian Center",
+   "title": "PUʻUHONUA Trio Performance",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "url": "https://www.royalhawaiiancenter.com/events/puuhonua-performances-july",
+   "type": "community"
+  },
+  {
+   "venue": "Mulligans on the Blue",
+   "title": "Aloha Wailea Luau",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "url": "https://www.alohawailealuau.com",
+   "type": "concert"
+  },
+  {
+   "venue": "ProArts Playhouse",
+   "title": "Theatrical Lighting Design Masterclass with S. Benjamin Farrar of Farrar Design",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "url": "https://proartsmaui.org/event/theatrical-lighting-design-masterclass-with-s-benjamin-farrar-of-farrar-design/",
+   "type": "arts"
+  },
+  {
+   "venue": "Palace Theater",
+   "title": "You Can See Everything",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://hilopalace.com/palace-event/you-can-see-everything/",
+   "type": "arts"
+  },
+  {
+   "venue": "Stan Sheriff Center",
+   "title": "Hawaii Rainbow Warriors Mens Basketball vs. Incarnate Word Cardinals Mens Basketball",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://hawaiiathletics.com/calendar",
+   "type": "sports",
+   "dateTbd": true,
+   "watch": {
+    "tv": [
+     "MW+"
+    ]
+   }
+  },
+  {
+   "venue": "Blaisdell Concert Hall",
+   "title": "Book of Mormon",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "url": "https://broadwayinhawaii.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Kings’ Shops",
+   "title": "Nahoa Entertainment Presents \"Fires of Polynesia\"",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://kingsshops.com/event/nahoa-entertainment-presents-fires-of-polynesia/",
+   "type": "community"
+  },
+  {
+   "venue": "Blue Note Hawaii",
+   "title": "ANA ‘Aha Mele Evening & Moonlight Concert",
+   "date": "2026-11-25",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/ana-aha-mele-evening-blue-note-hawaii-tickets/14250604",
+   "type": "arts"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "No Pressure: Conducta & DJ Swisha",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://hbsocialclub.com/event/no-pressure-conducta-dj-swisha/",
+   "type": "concert"
+  },
+  {
+   "venue": "HB Social Club",
+   "title": "byran gee",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://hbsocialclub.com/event/byran-gee/",
+   "type": "concert"
   }
  ]
 }
